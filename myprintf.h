@@ -9,8 +9,8 @@
 /*   Updated: 2023/03/26 14:17:59 by inchoi           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#ifndef FT_PRINTF_H
-# define FT_PRINTF_H
+#ifndef MYPRINTF_H
+# define MYPRINTF_H
 
 # include <stdlib.h>
 # include <unistd.h>
